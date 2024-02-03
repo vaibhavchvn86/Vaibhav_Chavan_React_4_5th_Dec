@@ -1,0 +1,28 @@
+*{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(226, 224, 224);
+    color: black;
+    text-decoration: none;
+}
+
+
+header{
+    height: 60px;
+    width:100%;
+    border-bottom: 2px solid rgb(7, 7, 7);
+    
+
+}
+
+header > div{
+    font-size: 30px;
+    margin-top: 30px;
+    color: white;
+    margin-left: 20px;
+
+}
+header > div > p{
+    text-align: center;
+}
